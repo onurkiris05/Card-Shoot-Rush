@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6382002876808573566
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5575712248331844035}
+  m_Layer: 0
+  m_Name: ShowcasePos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5575712248331844035
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6382002876808573566}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 109701041569458032}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1733237651674812986
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 803738356, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 803738356, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 803738357, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+      propertyPath: m_FillAmount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1073723741, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+      propertyPath: m_Value
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1839736880683562314, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1839736880683562314, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1839736880683562314, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1839736880683562314, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 104.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 1839736880683562314, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1839736880683562314, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1839736880683562314, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1839736880683562314, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1839736880683562314, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1839736880683562314, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1839736880683562314, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7515066437094788295, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+      propertyPath: showcase
+      value: 
+      objectReference: {fileID: 5575712248331844035}
+    - target: {fileID: 7905242262029444335, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+      propertyPath: m_Name
+      value: CardGate Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+--- !u!4 &109701041569458032 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1839736880683562314, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+  m_PrefabInstance: {fileID: 1733237651674812986}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1733237652365732711 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1073723741, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+  m_PrefabInstance: {fileID: 1733237651674812986}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1733237652973697697 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1404889243, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+  m_PrefabInstance: {fileID: 1733237651674812986}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &8482738264476972757 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7905242262029444335, guid: 1cd5b4f2e871ed04c959becb0ff8fa49, type: 3}
+  m_PrefabInstance: {fileID: 1733237651674812986}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3037357502594385506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8482738264476972757}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cd189e282094a648847fab834cfac7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gateStats:
+  - ProgressToUpgrade: 5
+    UpgradeAmount: 1
+  - ProgressToUpgrade: 10
+    UpgradeAmount: 1
+  cardCount: 2
+  cardPower: 1
+  anglePerCard: 30
+  cardPrefab: {fileID: 8554121144202535536, guid: c1a03100b5ea8704a89032f90d5ff121, type: 3}
+  showcase: {fileID: 5575712248331844035}
+  bar: {fileID: 1733237652365732711}
+  maxText: {fileID: 1733237652973697697}
